@@ -1,0 +1,5 @@
+server:
+  logging: false
+
+db:
+  synchronize: false
